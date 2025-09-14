@@ -1,6 +1,9 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Trading widgt from trading view
+1. IYKYK
+2. I told you soo
+3. if you want to succes, your must paid the price, its must be tireles night, lonely 
 
 Currently, two official plugins are available:
 
